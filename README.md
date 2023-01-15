@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lemonpopkaze33
+- 👋 Hi, I’m @johnny-slack
 - 👀 I’m interested in software programming.
 - 🌱 I’m currently learning Rust, Go, Javascript, Angular, React
 - 💞️ I’m looking to collaborate on projects for aspiring software programmers.
