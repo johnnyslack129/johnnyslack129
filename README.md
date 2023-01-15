@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @johnny-slack
+- 👋 Hi, I’m @johnnyslack129
 - 👀 I’m interested in software programming.
-- 🌱 I’m currently learning Rust, Go, Javascript, Angular, React
-- 💞️ I’m looking to collaborate on projects for aspiring software programmers.
+- 🌱 I’m currently learning Rust, Go, Java, Javascript, Angular, React
+- 💞️ I’m looking to collaborate on proqjects for aspiring software programmers.
 - 📫 How to reach me lemon*******@gmail.com
 
 <!---
