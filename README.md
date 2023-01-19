@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @johnnyslack129
+- 👋 Hi, I’m @thisisjohnnykaze129
 - 👀 I’m interested in software programming.
 - 🌱 I’m currently learning C#, Go, Java, Rust, Javascript, Angular, React
-- 💞️ I’m looking to collaborate on proqjects for aspiring software programmers.
+- 💞️ I’m looking to collaborate on proqects for aspiring software programmers.
 - 📫 How to reach me lemon*******@gmail.com
 
 <!---
