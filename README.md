@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thisiskazejohnny
 - 👀 I’m interested in software programming.
-- 🌱 I’m currently learning C#, Javascript, Angular, React.
+- 🌱 I’m currently learning C#, Go, Java, Javascript, Angular, and React.
 - 💞️ I’m looking to collaborate on proqects for aspiring software programmers.
 - 📫 How to reach me johnnyslack.osx@gmail.com
 
