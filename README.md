@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @thisiskazejohnny
+- 👋 Hi, I’m Johnny @popunit323
 - 👀 I’m interested in software programming.
-- 🌱 I’m currently learning C#, Go, Java, Javascript, Angular, and React.
-- 💞️ I’m looking to collaborate on proqects for aspiring software programmers.
+- 🌱 I’m currently learning Flutter, C#, Go, Java, Javascript, Angular, and React.
+- 💞️ I’m looking to collaborate on projects for aspiring software programmers.
 - 📫 How to reach me johnnyslack.osx@gmail.com
 
 <!---
