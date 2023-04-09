@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Johnny @popunit323
 - 👀 I’m interested in software programming.
-- 🌱 I’m currently learning Flutter, C#, Go, Java, Javascript, Angular, and React.
-- 💞️ I’m looking to collaborate on projects for aspiring software programmers.
+- 🌱 I’m currently building applications in Java, Javascript, Angular, React and Next.js.
+- 🌱 I’m currently completing the full-stack development course on App Academy Open, and also learning C# and Go.
+- 💞️ I’m also creating a portfolio application for aspiring developers.
 - 📫 How to reach me johnnyslack.osx@gmail.com
 
 <!---
