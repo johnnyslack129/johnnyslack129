@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Johnny @popunit323
+- 👋 Hi, I’m Johnny @thisisjohnnykaze
 - 👀 I’m interested in software programming.
 - 🌱 I’m currently building applications in Java, Javascript, Angular, React and Next.js.
 - 🌱 I’m currently completing the full-stack development course on App Academy Open, and also learning C# and Go.
