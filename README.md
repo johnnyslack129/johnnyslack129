@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Johnny @thisiskazejohnny
 - 👀 I’m interested in software programming.
-- 🌱 Presently, I am building applications in Java, Javascript, Angular, React and Next.js.
-- 🌱 I am taking the full-stack development course on App Academy Open, and also learning C# and Go.
+- 🌱 Presently, I am building applications in React, Vue, JavaScript, MERN/MEVN, Express, Mongoose, Node.js
+- 🌱 I am taking the full-stack development course on App Academy Open. I am also interested in Go and C#/.NET.
 - 💞️ I’m also creating a portfolio application template for aspiring developers.
 - 📫 How to reach me thisiskazejohnny@gmail.com
 
