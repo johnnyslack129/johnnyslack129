@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Johnny @thisiskazejohnny
 - 👀 I’m interested in software programming.
-- 🌱 Presently, I am building applications in React, Vue, JavaScript, MERN/MEVN, Express, Node.js, Firebase
-- 🌱 I am also interested in Go and C#/.NET.
-- 💞️ I’m also creating a portfolio application template for aspiring developers.
+- 🌱 Presently, I am building applications in Next.js, React, JavaScript, MERN, Express, Node.js, Firebase, MongoDB
+- 🌱 I am also interested in Go and C#/.NET and all things systems design and front-end.
+- 💞️ I’m also creating a portfolio application template for aspiring developers, called Fresh-Folio. And other open-source projects.
 - 📫 How to reach me thisiskazejohnny@gmail.com
 
 <!---
